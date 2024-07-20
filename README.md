@@ -1,6 +1,6 @@
 ### Hello 👋
 
-Please feel free to visit my portfolio site:
+Please feel free to visit my portfolio website:
 
 [![Site Badge](https://img.shields.io/badge/WebSite-Portfolio-ff5100?style=for-the-badge&labelColor=ff5100&link=https://fenixcoderx.netlify.app)](https://fenixcoderx.netlify.app) 
 
